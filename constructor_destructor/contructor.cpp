@@ -55,8 +55,8 @@ public:
 
 int main()
 {
-    Customer A1;
-    A1.display();
+    Customer obj;
+    obj.display();
     Customer A2("mohit", 2, 100);
     A2.display();
     Customer A3("lohit", 3);
